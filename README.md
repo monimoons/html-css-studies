@@ -14,12 +14,6 @@ Este repositório contem os estudos atuais de html e css que estou fazendo no cu
 ## Tecnologias utilizadas
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Como visualizar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
 ## Observações gerais  
 Esse projeto faz parte da minha jornada no **Oracle Next Education (ONE)** em parceria com a **Alura**.  
 Nesse projeto tive mais liberdade para explorar a area de **UI/UX**, buscando deixar a interface interessantes com a minha visão, percebo que ainda tem muitas coisas para melhorar, e alguns detalhes para deixar mais interessante mas estou contente com o resultado.
