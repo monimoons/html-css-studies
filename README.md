@@ -1,8 +1,8 @@
-# Portfólio Pessoal
+# Portifólio Pessoal
 
 Este é o meu portfólio desenvolvido em **HTML** e **CSS**, com objetivo de apresentar um pouco sobre mim, meus projetos e formas de contato.  
 A proposta foi criar uma página com layout simples, responsivo e de fácil navegação.
-Este repositório contem os estudos atuais de html e css que estou fazendo no curso da Oracle + Alura. 
+Este repositório contém os estudos atuais de html e css que estou fazendo no curso da Oracle + Alura. 
 
 ![rOwBLrc](https://github.com/user-attachments/assets/4ac1b683-ddef-41dc-9442-62a49ac52eb0)
 
